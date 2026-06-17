@@ -12,15 +12,11 @@ import type { IScene } from './IScene';
 
 /** Teacher reaction lines; index 9 (the 10th miss) ends the game. */
 const PHRASES = [
-  'Launch SafeExam Browser!',
-  'Eyes on your own screen!',
-  'Is that a phone?!',
-  'Pay attention!',
-  "I'm watching you...",
-  'No talking!',
-  'Sit up straight!',
-  "That's a warning!",
-  'Last chance!',
+  'Launch SafeExam Browsers!',
+  'Acis uz savu monitoru',
+  'Atbilstoši telefons pie skolotāja galda',
+  'Tad atbilstoši...',
+  "Mikus!",
   'Ar pierakstiem pie skolotāja!',
 ];
 
