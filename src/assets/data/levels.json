@@ -1,0 +1,19 @@
+{
+  "levels": [
+    {
+      "id": "classroom",
+      "background": "classroom.png",
+      "rageDecayPerHit": 8,
+      "rageIncreasePerMiss": 12,
+      "initialRage": 50,
+      "maxMisses": 10,
+      "spawnCooldownMs": 1200,
+      "noteSpeedPps": 220,
+      "speedScalingPerHit": 1.5,
+      "columnKeys": ["a", "s", "d", "f", "j", "k", "l"],
+      "columnWeights": [0.1, 0.15, 0.2, 0.1, 0.2, 0.15, 0.1],
+      "hitZoneTopPct": 0.78,
+      "hitZoneBottomPct": 0.88
+    }
+  ]
+}
